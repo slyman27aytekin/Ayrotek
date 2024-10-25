@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AyroTekApplication<AyroTek>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.deneme.ayroteksulo.AyroTekApplication",
+            "projectName": "AyroTek",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

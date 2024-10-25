@@ -1,0 +1,13 @@
+com\deneme\ayroteksulo\tax\TaxLogRepository.class
+com\deneme\ayroteksulo\UserService.class
+com\deneme\ayroteksulo\User.class
+com\deneme\ayroteksulo\Product.class
+com\deneme\ayroteksulo\ProductService.class
+com\deneme\ayroteksulo\UserController.class
+com\deneme\ayroteksulo\tax\TaxLog.class
+com\deneme\ayroteksulo\tax\TaxService.class
+com\deneme\ayroteksulo\UserRepository.class
+com\deneme\ayroteksulo\ProductController.class
+com\deneme\ayroteksulo\ProductRepository.class
+com\deneme\ayroteksulo\AyroTekApplication.class
+com\deneme\ayroteksulo\tax\TaxController.class
